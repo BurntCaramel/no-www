@@ -1,0 +1,29 @@
+{
+  "name": "no-www",
+  "version": "0.1.0",
+  "description": "Redirect from www.* to *",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyalIcing/no-www.git"
+  },
+  "keywords": [
+    "nowww",
+    "no-www"
+  ],
+  "author": "Patrick Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoyalIcing/no-www/issues"
+  },
+  "homepage": "https://github.com/RoyalIcing/no-www#readme",
+  "dependencies": {
+    "hapi": "^15.2.0"
+  }
+}
